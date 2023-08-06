@@ -1,0 +1,31 @@
+[33mcommit f7907cf5484178f89c949f9a1e6319741eb14bc7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: DavidKress <logdkin@gmx.ch>
+Date:   Fri Aug 4 08:07:31 2023 +0200
+
+    Revert "Test commit"
+    
+    This reverts commit 517c314f90edef2ddb9fbfe4a299255da50b9620.
+
+[33mcommit 517c314f90edef2ddb9fbfe4a299255da50b9620[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DavidKress <logdkin@gmx.ch>
+Date:   Thu Aug 3 08:03:28 2023 +0200
+
+    Test commit
+
+[33mcommit 0fd56a0eacb7c6b76cbbd9553dbe416d1a557504[m
+Author: DavidKress <logdkin@gmx.ch>
+Date:   Wed Aug 2 23:39:48 2023 +0200
+
+    Master Branch Commit
+
+[33mcommit 69f2742a512095a8a719cb99a6ab4d1a47ef6f6f[m
+Author: DavidKress <logdkin@gmx.ch>
+Date:   Wed Aug 2 23:23:54 2023 +0200
+
+    Initial commit
+
+[33mcommit b716037278735626f7bb3b956ac00d6aa9cd2f98[m
+Author: DavidKress <99036083+DavidKress@users.noreply.github.com>
+Date:   Tue Aug 1 08:20:17 2023 +0200
+
+    Create test.txt
